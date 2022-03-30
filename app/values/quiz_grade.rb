@@ -1,0 +1,2 @@
+class QuizGrade
+end
